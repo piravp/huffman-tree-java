@@ -1,3 +1,4 @@
+package com.pira.huffman;
 import java.util.ArrayList;
 import java.util.Stack;
 
