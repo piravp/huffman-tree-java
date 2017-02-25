@@ -1,6 +1,6 @@
 # Huffman Tree
 This is an implementation of the Huffman tree in Java. 
-![figure](https://inst.eecs.berkeley.edu/~cs61a/fa15/extra/extra01/assets/huf.png "Huffman tree fig")
+![Huffman tree figure](huffman.png)
 Still work to do (see to-do list). 
 
 ## Huffman
@@ -16,5 +16,5 @@ Huffman coding is a type of encoding that is used for lossless data compression.
 * Backtrack from the top (where left is 0 and right is 1) 
 
 ## To-Do
-[x] Create Huffman tree
-[ ] Backtrack to find the encoding for each character
+* [x] Create Huffman tree
+* [ ] Backtrack to find the encoding for each character
