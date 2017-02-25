@@ -1,6 +1,7 @@
 # Huffman Tree
-This is an implementation of the Huffman tree in Java. 
 ![Huffman tree figure](huffman.png)
+
+This is an implementation of the Huffman tree in Java.
 Still work to do (see to-do list). 
 
 ## Huffman
